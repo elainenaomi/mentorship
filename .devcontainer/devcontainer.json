@@ -14,9 +14,9 @@
     "ghcr.io/rails/devcontainer/features/sqlite3": {}
   },
 
-  "containerEnv": {
-    "KAMAL_REGISTRY_PASSWORD": "$KAMAL_REGISTRY_PASSWORD"
-  },
+  // "containerEnv": {
+  //   "KAMAL_REGISTRY_PASSWORD": "$KAMAL_REGISTRY_PASSWORD"
+  // },
 
   // Use 'forwardPorts' to make a list of ports inside the container available locally.
   "forwardPorts": [3000],
